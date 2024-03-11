@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 3. Open the `index.html` file in your web browser.
 
 
-## Screenshots (Optional)
+## Screenshots 
 ![Project Screenshot](fashionhub.png)
 
 ## Technologies Used
