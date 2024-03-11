@@ -2,6 +2,7 @@
 
 Description:-Lifestyle is India's leading fashion destination for the latest trends. Lifestyle brings multiple categories including men, women and kids’ apparel, footwear, handbags, fashion accessories and beauty under the convenience of a single roof.
 
+watch live : https://fashion-hub-pearl.vercel.app/
 
 ![Project Screenshot](fashionhub.png)
 
