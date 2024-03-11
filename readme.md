@@ -1,28 +1,37 @@
-# Fashion Hub
+# Hotel Finder
 
 ## Description
-Fashion Hub is a web application developed as an individual project within a duration of three days. It serves as an online fashion store.
+Hotel Finder is an individual project developed within a span of three days. It's a clone of Airbnb's website, tailored for hotel bookings. Users can explore various hotels, view details, and make bookings seamlessly.
 
 ## Deployment
 The project is deployed and can be accessed via the following link:
 
-link:-( https://fashion-hub-pearl.vercel.app/)
+
+./img/airbnbHome.png
+## Screenshots 
+![Project Screenshot](./img/airbnbHome.png)
+![Project Screenshot](./img/hotelpage.png)
+![Project Screenshot](./img/hotelcal.png)
+
+
+[Visit Hotel Finder](https://your-deployment-link.com)
 
 ## Installation
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/fashion-hub.git`
-2. Navigate to the project directory: `cd fashion-hub`
+1. Clone the repository: `git clone https://github.com/yourusername/hotel-finder.git`
+2. Navigate to the project directory: `cd hotel-finder`
 3. Open the `index.html` file in your web browser.
 
-
-## Screenshots 
-![Project Screenshot](fashionhub.png)
+## Usage
+Hotel Finder provides the following features:
+- Search and browse through a curated selection of hotels.
+- View detailed information about each hotel, including amenities, reviews, and pricing.
+- Book hotels seamlessly through the platform.
 
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## Contributing
 This project is developed as an individual project, so contributions are not open at this time.
@@ -31,6 +40,5 @@ This project is developed as an individual project, so contributions are not ope
 [Specify the license under which your project is distributed, if applicable.]
 
 ## Acknowledgements
-- Icons made by [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com)
-
-
+- This project is inspired by Airbnb.
+- Images and content are for demonstration purposes only.
