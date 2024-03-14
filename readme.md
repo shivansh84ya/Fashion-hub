@@ -5,16 +5,13 @@ Hotel Finder is an individual project developed within a span of three days. It'
 
 ## Deployment
 The project is deployed and can be accessed via the following link:
+(https://your-deployment-link.com)
 
 
 
 ## Screenshots 
 ![Project Screenshot](fashionhub.png)
-![Project Screenshot](./img/airbnbHome.png)
-![Project Screenshot](./img/hotelcal.png)
 
-
-[Visit Hotel Finder](https://your-deployment-link.com)
 
 ## Installation
 To run this project locally, follow these steps:
