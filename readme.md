@@ -9,7 +9,7 @@ The project is deployed and can be accessed via the following link:
 
 
 ## Screenshots 
-![Project Screenshot](../img/airbnbHome.png)
+![Project Screenshot](fashionhub.png)
 ![Project Screenshot](./img/airbnbHome.png)
 ![Project Screenshot](./img/hotelcal.png)
 
