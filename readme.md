@@ -3,14 +3,6 @@
 ## Description
 Hotel Finder is an individual project developed within a span of three days. It's a clone of Airbnb's website, tailored for hotel bookings. Users can explore various hotels, view details, and make bookings seamlessly.
 
-## Deployment
-The project is deployed and can be accessed via the following link:
-(https://your-deployment-link.com)
-
-
-
-## Screenshots 
-![Project Screenshot](fashionhub.png)
 
 
 ## Installation
