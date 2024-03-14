@@ -7,10 +7,10 @@ Hotel Finder is an individual project developed within a span of three days. It'
 The project is deployed and can be accessed via the following link:
 
 
-./img/airbnbHome.png
+
 ## Screenshots 
 ![Project Screenshot](../img/airbnbHome.png)
-![Project Screenshot](hotelpage.png)
+![Project Screenshot](./img/airbnbHome.png)
 ![Project Screenshot](./img/hotelcal.png)
 
 
